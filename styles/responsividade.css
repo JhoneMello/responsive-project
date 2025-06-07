@@ -12,7 +12,9 @@
     }
 
     
-       
+       .arvore ul .visibilidade {
+        display: block;
+       }
 
 }
 
