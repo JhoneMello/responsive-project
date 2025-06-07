@@ -177,6 +177,10 @@
     height: 4rem;
 }
 
+.arvore ul .visibilidade{
+    display: block;
+}
+
 }
 
 @media ( min-width: 1200px) {
